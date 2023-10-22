@@ -1,6 +1,6 @@
 package shortener;
 
-import wjava.math.BigInteger;
+import java.math.BigInteger;
 import java.security.SecureRandom;
 
 public class Helper {
